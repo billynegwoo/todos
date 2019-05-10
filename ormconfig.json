@@ -1,8 +1,8 @@
 [
    {
+      "url": "mongodb://mongo:27017/todos",
       "name": "development",
       "type": "mongodb",
-      "database": "todos",
       "synchronize": true,
       "logging": true,
       "useNewUrlParser": true,
@@ -22,9 +22,9 @@
       }
    },
    {
+      "url": "mongodb://mongo:27017/test-todos",
       "name":"test",
       "type": "mongodb",
-      "database": "test-todos",
       "dropSchema": true,
       "synchronize": true,
       "logging": false,
