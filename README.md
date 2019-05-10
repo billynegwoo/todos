@@ -18,8 +18,10 @@ Tech:
 * [npm](https://www.npmjs.com/)
 * [Typescript](https://www.typescriptlang.org/)
 * [Mongodb](https://www.mongodb.com/)
-* [Mongodb](https://www.mongodb.com/)
-* [Mongodb](https://www.mongodb.com/)
+* [Apollo server](https://www.apollographql.com/docs/apollo-server/)
+* [Joi](https://github.com/hapijs/joi)
+* [Express](https://expressjs.com/)
+* [Typeorm](https://typeorm.io)
 
 
 ## Start the project 
